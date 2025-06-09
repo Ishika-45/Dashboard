@@ -1,0 +1,10 @@
+.my-card{
+    min-width: 400px;
+}
+.ant-card-body{
+    padding: 0px !important;
+}
+.chart-wrapper{
+    display:flex;
+    flex-wrap: wrap;
+}   
